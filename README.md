@@ -1,1 +1,1 @@
-[Текст ссылки](https://github.com/alyona-pridantseva/ono-tebe-nado)
+https://github.com/alyona-pridantseva/ono-tebe-nado
