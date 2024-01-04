@@ -230,7 +230,7 @@
 
 .lots__look-more-link {
   display: block;
-  max-width: 192px; 
+  max-width: 192px;
   margin: 32px 0 0 40px;
   border-bottom: 1px solid #000;
   line-height: 1.17;
@@ -255,7 +255,7 @@
   background-color: #000;
   display: flex;
   justify-content: center;
-  align-items: center; 
+  align-items: center;
 }
 
 .about__logo-image {
